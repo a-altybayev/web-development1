@@ -1,0 +1,24 @@
+h2{
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: 40px;
+}
+h3{
+    font-size:30px;
+}
+p,table{
+    font-size: 20px;
+}
+div{
+    border: 5px solid black;
+    padding: 15px;
+    margin-left: 250px;
+    margin-right: 170px;
+    border-radius: 10px;
+}
+table, th, td {
+    border:1px solid black;
+}
+footer {
+    text-align: center;
+    color: red;
+  }
