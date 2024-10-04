@@ -1,1 +1,1 @@
-# web-development1
+In "sis3/index2.html" Bootstrap is used. It was used in order to make website more readable and attractive. For example: there are changes in colors, fonts, font sizes, etc.. In addition, it was used to initialize classes for tags, such as (div, paragraphs, figcaption buttons)
